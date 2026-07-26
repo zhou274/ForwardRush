@@ -1,0 +1,41 @@
+# Linux / macOS
+.DS_Store
+.[Dd]s_[Ss]tore
+
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# IDE
+.idea/
+.vs/
+.vsconfig
+.vscode/
+
+# C# project files (auto-generated)
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash reports
+CrashReport/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# .codely-cli
+.codely-cli/
